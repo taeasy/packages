@@ -1,0 +1,8 @@
+--- a/lib/isc/include/isc/json.h
++++ b/lib/isc/include/isc/json.h
+@@ -35,4 +35,4 @@ esac
+ #else
+-#include <json/json.h>
++#include <json-c/json.h>
+ #endif
+ #endif
